@@ -69,7 +69,7 @@ mounted `readOnly: true` in the main container.
 ## Prerequisites
 
 - The scaled studio of **module 4** (repository
-  [`clic-par-clic-studio3d-04-marquage`](https://github.com/guilhem-/clic-par-clic-studio3d-04-marquage)):
+  [`clic-par-clic-studio3d-04-marquage`](https://github.com/guilhembon/clic-par-clic-studio3d-04-marquage)):
   Redis, KEDA 2.21, `studio` secret, “Studio 3D” connection and model in Open WebUI.
 - A cluster whose container runtime mounts `image` volumes: Kubernetes 1.35 or later
   (k3s 1.35.5, containerd 2.2.3 in the video, **k3d** cluster `tterm`, Traefik published on port
@@ -158,6 +158,6 @@ mounted `readOnly: true` in the main container.
 ## Next in the series
 
 - Previous module: **Marking AI-generated renders** — repository
-  [`clic-par-clic-studio3d-04-marquage`](https://github.com/guilhem-/clic-par-clic-studio3d-04-marquage).
+  [`clic-par-clic-studio3d-04-marquage`](https://github.com/guilhembon/clic-par-clic-studio3d-04-marquage).
 - Next module: **Downloading the Blender scene from another team's storage** — repository
-  [`clic-par-clic-studio3d-06-stockage-s3`](https://github.com/guilhem-/clic-par-clic-studio3d-06-stockage-s3).
+  [`clic-par-clic-studio3d-06-stockage-s3`](https://github.com/guilhembon/clic-par-clic-studio3d-06-stockage-s3).
